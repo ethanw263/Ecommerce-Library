@@ -1,6 +1,9 @@
 {
   "name": "library-react",
   "version": "0.1.0",
+  "engines": {
+    "node": "20.12.2"
+  },
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
@@ -40,4 +43,5 @@
       "last 1 safari version"
     ]
   }
+  
 }
